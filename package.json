@@ -1,0 +1,22 @@
+{
+  "name": "react-parcel-search-bar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/benjaminhuanghuang/react-parcel-search-bar.git",
+  "author": "Benjamin Huang",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-react": "^7.0.0",
+    "bulma": "^0.7.4",
+    "parcel": "^1.12.3"
+  }
+}
